@@ -1,0 +1,2 @@
+# ML_for_Bankruptcy_Prediction_-_Relevant_Financial_Indicators_in_U.S._Public_Company
+This project focuses on developing machine learning models to predict bankruptcy in U.S. public companies using key financial indicators. The analysis leverages various classification algorithms to analyze financial data and forecast the likelihood of bankruptcy, a crucial tool for financial analysts, investors, and business decision-makers.
