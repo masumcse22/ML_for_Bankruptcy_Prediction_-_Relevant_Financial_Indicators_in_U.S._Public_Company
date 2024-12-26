@@ -1,6 +1,6 @@
 # ML for Bankruptcy Prediction: Relevant Financial Indicators in U.S. Public Companies  
 
-![Cover](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.statista.com%2Fchart%2F22563%2Fbankruptcies-in-the-us%2F&psig=AOvVaw23fEqVtUPWQJ-T2D2mvCM5&ust=1735280243641000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiClqLlxIoDFQAAAAAdAAAAABAE)
+![Cover](https://cdn.statcdn.com/Infographic/images/normal/22563.jpeg)
 
 ## 🚀 Project Overview  
 This project focuses on leveraging **machine learning** to predict the likelihood of bankruptcy in U.S. public companies using key financial indicators. By utilizing historical financial data and advanced classification algorithms, this project aims to provide actionable insights for **financial analysts**, **investors**, and **business decision-makers**.  
